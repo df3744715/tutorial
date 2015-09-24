@@ -1,0 +1,25 @@
+#homework0
+This homework is simply used to check if all students know how to work with git and github (no credit).
+At the sametime, it also helps me to know you a little bit more :)
+
+## Brief self-introduction [max 500 words]
+
+哈囉大家好，我是電機所碩二的張庭瑜，很開心能夠選到這門
+課，雖然要聽三個小時的英文會有點吃力，但還是會盡力去理
+解老師上課的內容！希望上完整學期的課能夠收穫滿滿！
+
+## Why Computer Vision? [max 500 words]
+
+大學時期雖然上了很多電機相關的基礎課程，但沒什麼接觸過
+conputer vision、machine learning等相關的課程，感覺似乎
+非常有趣，所以希望藉由這門課能夠對電腦視覺的部分有相當
+的了解與學習！
+
+## What do you want to achieve in the course? [ max 500 words]
+
+希望藉由孫民老師的全英授課，除了電腦視覺專業知識的提升
+以外還能夠增強英文的聽力，這是自己很需要加強的部分！
+
+PS. 中文 or English are both fine.
+
+## Due Date: Sept. 23, 2015
